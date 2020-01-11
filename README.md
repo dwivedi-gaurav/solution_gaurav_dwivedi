@@ -18,16 +18,3 @@ NPM Packages used:
 2. mocha  : Test framework
 3. expect : Used to write assertions.
 
-Directory Structure:
-
-Gaurav_Dwivedi: Root folder
-    test: contains test related files
-        countipTests.js: contains testCases for countIPs utility function
-        generateOutputTests.js: contains testCases for generateOutput utility function
-        utils.test.js: contains code to implement testCases with mocha for utility functions
-    utils: contains utility files used in the app
-        utils.js: contains utility function
-    app.js: Root file to run the app
-    clicks.js: Contains input array
-    resultset.json: Contains output for given clicks.json
-    README.md
