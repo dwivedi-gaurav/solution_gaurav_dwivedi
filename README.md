@@ -3,7 +3,7 @@ Assumptions:
 1. Date Format: DD/MM/YYYY.
 2. Input array will be sorted by timestamp, as provided in the clicks.json.
 3. If maximum amoumnt ties for two different IPs in a one hour period, then the earlier one will be placed in output array.
-4. If maximum amount as well as timestamps tie for two or more different clicks, the one which comes first in Order in the input array will placed in the output array. 
+4. If maximum amount as well as timestamps tie for two or more different clicks, then the one which comes first in Order in the input array will be placed in the output array.
 
 How to run the app:
 
